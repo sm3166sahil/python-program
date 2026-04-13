@@ -1,6 +1,6 @@
 import random  # Import random module to generate random numbers
 
-# Function to play the guessing game
+# Function to play the guessing game change
 def play_game():
     # Computer chooses a random number between 1 and 100
     number = random.randint(1, 100)
